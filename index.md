@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Inventory Management Project Presentation](/pdf/sample_presentation.pdf)
+### [Inventory Management Project Presentation](https://www.youtube.com/watch?v=dZUN16w6otI)
 
 - **Class: CSCI 325** 
 - **Grade: 100%**
