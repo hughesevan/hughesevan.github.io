@@ -36,10 +36,10 @@ Ethics Papers
 -   **Class: CSCI 315**  
 -   **Grade: 100%**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Copyright and Ethics in Code Production](/pdf/sample_presentation.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 301** 
+-   **Grade: 87.5%**
 
 ### [Paper 3 Title](/pdf/sample_presentation.pdf)
 
