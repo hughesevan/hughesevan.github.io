@@ -31,10 +31,10 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Ethical Considerations in Software Reliability](/pdf/sample_presentation.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI 315**  
+-   **Grade: 100%**
 
 ### [Paper 2 Title](/pdf/sample_presentation.pdf)
 
@@ -51,10 +51,10 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Inventory Management Project Presentation](/pdf/sample_presentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 325** 
+- **Grade: 100%**
 
 
 ### [Presentation 2 Title](/pdf/sample_presentation.pdf)
