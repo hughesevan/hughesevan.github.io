@@ -12,17 +12,17 @@ Programming Projects
 ![Inventory-Management](images/dummy_thumbnail.jpg)
 
 ---
-### [Warfighter Foundation Website | CSCI 334](project1)
+### [Warfighter Foundation Website | CSCI 334](project2)
 
 ![Warfighter Foundation Website](images/dummy_thumbnail.jpg)
 
 ---
-### [ForeCite | CSCI 495](project1)
+### [ForeCite | CSCI 495](project3)
 
 ![ForeCite](images/dummy_thumbnail.jpg)
 
 ---
-### [Windows Security Hardening Toolkit | CSCI 301](project1)
+### [Windows Security Hardening Toolkit | CSCI 301](project4)
 
 ![Windows Security Hardening Toolkit](images/dummy_thumbnail.jpg)
 
