@@ -13,7 +13,7 @@
 
 ## Project Description
 
-ForeCite is a web-based research paper citation extraction and analysis application developed as a group project for CSCI 495 at Charleston Southern University. The project was designed to assist researchers and students at the Medical University of South Carolina (MUSC) by reducing the time required to manually identify, organize, and evaluate citations in academic research papers.
+ForeCite is a web-based research paper citation extraction and analysis application developed as a group project for CSCI 495. The project was designed to assist researchers and students at the Medical University of South Carolina (MUSC) by reducing the time required to manually identify, organize, and evaluate citations in academic research papers.
 
 The application allows users to upload research papers in PDF format, automatically identify numbered citations, and extract the surrounding text that provides context for each citation. It then uses a locally hosted large language model through Ollama to generate short explanations of how the citations relate to the statements made in the paper.
 
