@@ -4,6 +4,8 @@ Portfolio
 Senior Project
 --------------------
 
+*For access to my private project repositories, please [email me](mailto:ejhughes@student.csuniv.edu?subject=GitHub%20Access) with the subject line, GitHub Access.
+
 ### [HTS - Zero Trust Architechture | CSCI 497-499](seniorproject)
 
 My senior capstone project, demonstrating the design, development, and implementation of a baseline Zero Trust environment, specifically for a small enterprise.
@@ -12,8 +14,6 @@ My senior capstone project, demonstrating the design, development, and implement
 
 Programming Projects
 --------------------
-
-*For access to my private project repositories, please [email me](mailto:ejhughes@student.csuniv.edu?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
 ### [Inventory-Management | CSCI 325](project1)
