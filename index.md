@@ -31,17 +31,17 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Ethical Considerations in Software Reliability](/pdf/sample_presentation.pdf)
+### [Ethical Considerations in Software Reliability](/pdf/ethics315.pdf)
 
 -   **Class: CSCI 315**  
 -   **Grade: 100%**
 
-### [Copyright and Ethics in Code Production](/pdf/sample_presentation.pdf)
+### [Copyright and Ethics in Code Production](/pdf/ethics301.pdf)
 
 -   **Class: CSCI 301** 
 -   **Grade: 87.5%**
 
-### [The Ethical Dilemmas in Cybersecurity](/pdf/sample_presentation.pdf)
+### [The Ethical Dilemmas in Cybersecurity](/pdf/ethics325.pdf)
 
 -   **Class: CSCI 325** 
 -   **Grade: 100%**
