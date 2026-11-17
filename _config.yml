@@ -1,18 +1,24 @@
 # Site settings
 # These are used to personalize your new site.
-title: Mary Lou Algorithm # your name here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br /> elements if you don't need line breaks)
-  CSCI 496: Senior Portfolio<br />
-  In partial fulfillment of the requirements for the degree of
-  Bachelor of Science in Computer-Science (class of 2040)
+title: Evan Hughes # your name here
+logo: "/images/headshot.png" # your photo (or logo) here
+description: >
+  Applied Computing | Cybersecurity
   <br /><br />
-  <a href="https://example.com/resume">View My Resume</a>
+  Charleston Southern University
+  <br />
+  Bachelor of Science in Applied Computing
+  <br />
+  Class of 2026
   <br /><br />
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
-repository: "csci-csu/csci-portfolio"
-github_username:  username # update with your username
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  CSCI 496: Senior Portfolio
+  <br /><br />
+  <a href="pdf/Evan_Hughes_Resume.pdf">View My Resume</a>
+  <br /><br />
+  <a href="https://www.linkedin.com/in/evan-hughes-abb708329/">View My LinkedIn Profile</a>
+
+repository: "https://github.com/hughesevan/hughesevan.github.io"
+github_username: hughesevan
 
 # Build setting
 theme: jekyll-theme-minimal
