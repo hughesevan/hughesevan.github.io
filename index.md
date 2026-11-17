@@ -41,10 +41,10 @@ Ethics Papers
 -   **Class: CSCI 301** 
 -   **Grade: 87.5%**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [The Ethical Dilemmas in Cybersecurity](/pdf/sample_presentation.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 325** 
+-   **Grade: 100%**
 
 ---
 
@@ -57,10 +57,10 @@ Presentations
 - **Grade: 100%**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [UIP Final Project Presentation](https://www.youtube.com/watch?v=jY-luKzs8Do)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 334** 
+- **Grade: 100%**
 
 ---
 
