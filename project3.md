@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-# ForeCite — Research Paper Citation Extractor
+# ForeCite Research Paper Citation Extractor
 
 - **Class:** CSCI 495
 - **Grade:** A
