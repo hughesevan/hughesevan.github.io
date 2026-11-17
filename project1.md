@@ -11,7 +11,7 @@
 
 ## Project Description
 
-The Inventory Management System is a Java-based command-line application developed for CSCI 325 at Charleston Southern University. The project was created to help users manage inventory records, track shipments, and generate reports through a menu-driven interface.
+The Inventory Management System is a Java-based command-line application developed for CSCI 325. The project was created to help users manage inventory records, track shipments, and generate reports through a menu-driven interface.
 
 The application allows users to view existing inventory, add new items, modify item information, and remove items using their Stock Keeping Unit (SKU) numbers. Each inventory item contains information such as its name, description, SKU, quantity, and cost. The program also supports importing inventory records from text files and saving inventory information for later use.
 
