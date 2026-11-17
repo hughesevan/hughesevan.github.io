@@ -85,7 +85,7 @@ This demonstrates basic antivirus configuration using PowerShell commands.
 
 ![Defender Script](images/hardening-defender.png)
 
-**Fig. 2.** PowerShell output showing the Microsoft Defender status check and real-time monitoring configuration.
+**Fig. 2.** PowerShell script showing the Microsoft Defender status check and real-time monitoring configuration.
 
 ### Windows Defender Firewall
 
@@ -97,7 +97,7 @@ This script demonstrates how Windows firewall configurations can be managed prog
 
 ![Firewall Script](images/hardening-firewall.png)
 
-**Fig. 3.** PowerShell output showing the Windows Firewall status check and configuration.
+**Fig. 3.** PowerShell script showing the Windows Firewall status check and configuration.
 
 ### Local Password Policy
 
@@ -113,7 +113,7 @@ This setting restricts how quickly a password can be changed again. The script d
 
 ![Password Policy Script](images/hardening-password.png)
 
-**Fig. 4.** PowerShell output showing the local password policy check and minimum password age configuration.
+**Fig. 4.** PowerShell script showing the local password policy check and minimum password age configuration.
 
 ### User Account Control
 
@@ -125,7 +125,7 @@ User Account Control helps reduce the risk of unauthorized system changes by req
 
 ![UAC Script](images/hardening-uac.png)
 
-**Fig. 5.** PowerShell output showing the UAC registry check and configuration.
+**Fig. 5.** PowerShell script showing the UAC registry check and configuration.
 
 ## Additional Considerations
 
