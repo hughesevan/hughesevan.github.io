@@ -5,7 +5,7 @@
 - **Class:** CSCI 301
 - **Grade:** A
 - **Language(s):** PowerShell
-- **Source Code Repository:** [Windows Security Hardening Toolkit](https://github.com/hughesevan/CSCI-301-code-repository/tree/master/finalproject)
+- **Source Code Repository:** [Windows Security Hardening Toolkit](https://github.com/hughesevan/Windows-Security-Hardening-Toolkit)
 
   Please email me to request access to the private GitHub repository.
 
