@@ -92,8 +92,6 @@ Testing focuses on verifying that security controls behave as intended, includin
 
 Testing evidence includes screenshots, PowerShell command output, Windows Event Viewer records, access-denied messages, and timing measurements.
 
-The testing approach emphasizes validating the behavior of individual security controls within a controlled laboratory environment.
-
 ## Additional Considerations
 
 This project provided practical experience with enterprise cybersecurity technologies and security architecture design.
