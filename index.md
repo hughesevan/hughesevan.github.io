@@ -1,6 +1,15 @@
 Portfolio
 =========
 
+Senior Project
+--------------------
+
+### [HTS - Zero Trust Architechture | CSCI 497-499](seniorproject)
+
+My senior capstone project, demonstrating the design, development, and implementation of a baseline Zero Trust environment, specifically for a small enterprise.
+
+![HTS - Zero Trust Architechture](images/seniorproject.png)
+
 Programming Projects
 --------------------
 
