@@ -98,10 +98,6 @@ The citation parser searches for numbered references such as `[1]`, `[2,3]`, and
 
 The application processes papers in a background thread and maintains processing status information in its database.
 
-![ForeCite Processing](images/forecite-processing.png)
-
-**Fig. 2.** ForeCite displaying an uploaded research paper and its processing status.
-
 ### AI Citation Analysis
 
 ForeCite integrates with Ollama to analyze extracted citations using a locally hosted language model.
@@ -112,7 +108,7 @@ The generated analysis includes a short summary and a relevance rating. These re
 
 ![ForeCite Citation Results](images/forecite-results.png)
 
-**Fig. 3.** Citation analysis results displaying extracted references, context, and AI-generated summaries.
+**Fig. 2.** Citation analysis results displaying extracted references, context, and AI-generated summaries.
 
 ### Search and Document Management
 
@@ -124,7 +120,7 @@ The application also includes functionality for deleting uploaded papers and the
 
 ![ForeCite Search](images/forecite-search.png)
 
-**Fig. 4.** Search interface displaying previously uploaded research papers and document management options.
+**Fig. 3.** Search interface displaying a previously uploaded research paper, allowing you to delete, if wanted.
 
 ## Additional Considerations
 
